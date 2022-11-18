@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/custom-status-discord.iml" filepath="$PROJECT_DIR$/.idea/custom-status-discord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/discord-custom-status.iml" filepath="$PROJECT_DIR$/.idea/discord-custom-status.iml" />
     </modules>
   </component>
 </project>
